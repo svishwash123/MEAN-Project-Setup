@@ -4,6 +4,6 @@
         "https" : false
     },
     "db" : {
-        "connectionURL" : "mongodb+srv://svishwashsingh123:Vs_google77@reignitor-gy1lb.mongodb.net/reigniter?retryWrites=true&w=majority"
+        "connectionURL" : "dburl"
     }
 }
