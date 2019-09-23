@@ -1,0 +1,9 @@
+{
+    "app" :{
+        "port" : 8000,
+        "https" : false
+    },
+    "db" : {
+        "connectionURL" : "mongodb://localhost:27017/reignite"
+    }
+}
